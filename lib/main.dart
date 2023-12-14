@@ -59,7 +59,7 @@ class _HomePageState extends State<HomePage> {
             "Flutter Demo App",
             style: TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold),
           ),
-          backgroundColor: Colors.blueAccent,
+          backgroundColor: Colors.lightBlue,
           // Set the elevation (shadow) of the AppBar
 
           titleTextStyle: TextStyle(color: Colors.black),
